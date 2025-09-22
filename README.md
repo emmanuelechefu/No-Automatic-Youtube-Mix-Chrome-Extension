@@ -11,6 +11,9 @@ Since this extension isn’t published on the Chrome Web Store yet, you’ll nee
 1. **Download or clone this repository**
 
 Press the green code button and click "Download Zip"
+<p align="center">
+  <img src="step1.png" alt="Step 1"/>
+</p>
 
 2. **Open Chrome Extensions settings**
    
