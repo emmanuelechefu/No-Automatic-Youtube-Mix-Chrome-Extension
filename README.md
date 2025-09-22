@@ -10,7 +10,8 @@ Since this extension isn’t published on the Chrome Web Store yet, you’ll nee
 
 1. **Download or clone this repository**
 
-Press the green code button and click "Download Zip"
+   Press the green code button and click "Download Zip"
+
 <p align="center">
   <img src="step1.png" alt="Step 1"/>
 </p>
@@ -21,14 +22,22 @@ Press the green code button and click "Download Zip"
 
        chrome://extensions
 
-4. **Enable Developer Mode**  
+3. **Enable Developer Mode**  
    Toggle the **Developer mode** switch in the top-right corner.
 
-5. **Load the extension**  
+<p align="center">
+  <img src="step2.png" alt="Step 1"/>
+</p>
+
+4. **Load the extension**  
    - Click **Load unpacked**  
    - Select the folder you downloaded/cloned.
+  
+<p align="center">
+  <img src="step3.png" alt="Step 1"/>
+</p>
 
-6. ✅ Done! The extension will now run in the background and automatically clean YouTube links.
+5. ✅ Done! The extension will now run in the background and automatically clean YouTube links.
 
 ---
 
